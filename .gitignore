@@ -1,0 +1,7 @@
+# User data: projects, videos, fonts, rendered output, settings
+/storage/*
+!/storage/.htaccess
+*.log
+*.zip
+.DS_Store
+node_modules/
